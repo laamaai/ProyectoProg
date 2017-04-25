@@ -1,2 +1,0 @@
-# ProyectoProg
-proyecto de progamación
